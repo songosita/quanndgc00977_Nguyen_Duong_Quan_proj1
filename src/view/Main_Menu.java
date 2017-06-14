@@ -78,7 +78,7 @@ public class Main_Menu extends JFrame {
 				}
 			}
 		});
-		btnCustomer.setBounds(174, 46, 89, 23);
+		btnCustomer.setBounds(169, 46, 101, 23);
 		contentPane.add(btnCustomer);
 		
 		JButton btnOrder = new JButton("Order");

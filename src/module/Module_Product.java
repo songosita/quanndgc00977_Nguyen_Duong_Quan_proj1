@@ -89,6 +89,5 @@ public class Module_Product {
 			}
 		}
 		return false;
-
 	}
 }
